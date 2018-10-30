@@ -1,2 +1,0 @@
-# scratchpad
-Created with CodeSandbox
